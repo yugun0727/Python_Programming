@@ -27,6 +27,6 @@ print(a, b, c)
 
 # list() 형태로 변환
 a = list(map(int, input().split()))
-print(a, type(a))
+
 
 
