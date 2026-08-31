@@ -84,7 +84,7 @@ result = s.strip().upper
 print(result)                   # ✅ "HELLO WORLD" 출력
 
 # # 2️⃣ 이메일 형식 체크
-email = "abcd@dimigo.hs.kr
+email = "abcd@dimigo.hs.kr"
 print("@dimigo.hs.kr" in email)            # ✅ "@dimigo.hs.kr"이 포함되어 있으면 True
 
 # # 3️⃣ 문자열에서 특정 단어가 몇 번 등장하나?
